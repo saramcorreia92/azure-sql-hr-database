@@ -1,0 +1,13 @@
+# credentials and connection strings
+*.config
+appsettings.json
+connection_strings.txt
+passwords.txt
+
+# SSMS files
+*.suo
+*.user
+
+# Windows
+Thumbs.db
+desktop.ini
